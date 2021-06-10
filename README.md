@@ -1,4 +1,4 @@
-# FiraMonaco
+# FiraMonaco!
 Monaco Font with Firacode ligatures and patched for Powerline 📝
 
 # How to install
